@@ -1,2 +1,2 @@
 # uzmarket
-# The skeleton application for the Laravel uzNarket.
+# The skeleton application for the Laravel uzMarket.
